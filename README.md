@@ -37,12 +37,12 @@ Temel Fayda:
     
 Kullanılan Diller:
 
-    Frontend: HTML, 
-            - CSS,
-            - JavaScript,
-            - SCSS
+    Frontend:- HTML
+             - CSS
+             - JavaScript
+             - SCSS
     
-    Backend: C#
+    Backend: - C#
     
 Projeye Ait Görseller:
 
