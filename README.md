@@ -1,6 +1,6 @@
 # KelimeOyunu
-"Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi ipuçlarından yola çıkarak başarıya ulaşmaktır.
-
+"Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi
+ipuçlarından yola çıkarak başarıya ulaşmaktır. Ana fikir olarak "Wordle" oyununun klonu olarak isimlendirilebilir
 
 Nasıl Oynanır?
 
