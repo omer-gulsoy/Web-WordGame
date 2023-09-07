@@ -5,7 +5,7 @@ var row=0;
 var col=0;
 
 var gameOver = false;
-var word = "ENERY";
+var word = "KABLO";
 
 window.onload = function () {
     intialize();
