@@ -1,11 +1,11 @@
 //en
 # WordGame
-My word game project called "Word Hunt" is a game based on guessing the entered word. The purpose is to use the specified word
+My word game project called "Kelime Avı" is a game based on guessing the entered word. "Kelime Avı" means Word Hunt in English. The purpose is to use the specified word
 Achieving success based on the tips. As the main idea, it can be called a clone of the "Wordle" game.
 
 How to Play?
 
-    "Word Hunt" is a word guessing game in which a five-letter word is randomly selected. The aim of the game is
+    "Kelime Avı" is a word guessing game in which a five-letter word is randomly selected. The aim of the game is
      It is using a limited number of guesses to create a certain word. As a result of each prediction,
      You will receive color-coded feedback indicating the correct letters and positions of the predicted word.
     
@@ -18,7 +18,7 @@ How to Play?
     
 Tips and Strategies:
 
-        To play the "Word Hunt" game more effectively, you can consider the following tips and strategies:
+        To play the "Kelime Avı" game more effectively, you can consider the following tips and strategies:
 
      - Instead of guessing a random word at the beginning, look up frequently used letters and words in English
      Start with that in mind.
@@ -30,9 +30,9 @@ Tips and Strategies:
 
 Key Benefit:
 
-    "Word Hunt" game is a fun brain game that helps develop vocabulary and logic skills.
+    "Kelime Avı" game is a fun brain game that helps develop vocabulary and logic skills.
      It increases players' language and thinking skills by guessing words and analyzing feedback.
-     It also expands vocabulary and encourages strategic thinking. "Word Hunt", fun
+     It also expands vocabulary and encourages strategic thinking. "Kelime Avı", fun
      In addition to being a game, it supports learning and developing intelligence.
         
 Programming Languages ​​I Use:
