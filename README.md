@@ -1,3 +1,50 @@
+//en
+# WordGame
+My word game project called "Word Hunt" is a game based on guessing the entered word. The purpose is to use the specified word
+Achieving success based on the tips. As the main idea, it can be called a clone of the "Wordle" game.
+
+How to Play?
+
+    "Word Hunt" is a word guessing game in which a five-letter word is randomly selected. The aim of the game is
+     It is using a limited number of guesses to create a certain word. As a result of each prediction,
+     You will receive color-coded feedback indicating the correct letters and positions of the predicted word.
+    
+     - Gray Box: Indicates that the entered letter does not exist in the predicted word.
+     - Orange Box: It shows that the entered letter is present in the predicted word, but its position is wrong.
+     - Green Box: It shows that the entered letter and its location in the guessed word are correct.
+
+     Make your next prediction based on this feedback and repeat this process within your limited prediction allowance.
+     When you create the word with your guesses, you win the game. Otherwise, the game ends when you run out of guesses.
+    
+Tips and Strategies:
+
+        To play the "Word Hunt" game more effectively, you can consider the following tips and strategies:
+
+     - Instead of guessing a random word at the beginning, look up frequently used letters and words in English
+     Start with that in mind.
+     - Analyze the feedback carefully. Use the feedback to determine the correct letters and positions.
+     - Think of possible letters and word structures to form words. Increase your vocabulary and guess
+     Practice to improve your skills.
+     - Use the feedback from each guess to determine which letters you should include or exclude.
+     Determine what you should not do.
+
+Key Benefit:
+
+    "Word Hunt" game is a fun brain game that helps develop vocabulary and logic skills.
+     It increases players' language and thinking skills by guessing words and analyzing feedback.
+     It also expands vocabulary and encourages strategic thinking. "Word Hunt", fun
+     In addition to being a game, it supports learning and developing intelligence.
+        
+Programming Languages ​​I Use:
+
+    Frontend:- HTML
+             - CSS
+             - JavaScript
+             - SCSS
+    
+    Backend: - C#    
+
+//tr
 # KelimeOyunu
 "Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi
 ipuçlarından yola çıkarak başarıya ulaşmaktır. Ana fikir olarak "Wordle" oyununun klonu olarak isimlendirilebilir
@@ -43,8 +90,10 @@ Kullanılan Diller:
              - SCSS
     
     Backend: - C#
-    
-Projeye Ait Görseller:
+
+note: The texts in the program are in Turkish.
+
+Images of the Project:
 
 ![Ekran Görüntüsü (26)](https://github.com/omer-gulsoy/KelimeOyunu/assets/139320509/fa835151-a1fa-48de-9856-1e7ae76b8687)
 ![Ekran Görüntüsü (28)](https://github.com/omer-gulsoy/KelimeOyunu/assets/139320509/ad3d9219-5c98-45f8-9fce-3d8b5677bf9b)
