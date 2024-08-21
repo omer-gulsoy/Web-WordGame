@@ -1,9 +1,9 @@
 //en
 # WordGame
-My word game project called "Kelime Avı" is a game based on guessing the entered word. "Kelime Avı" means Word Hunt in English. The purpose is to use the specified word
-Achieving success based on the tips. As the main idea, it can be called a clone of the "Wordle" game.
+***My word game project called "Kelime Avı" is a game based on guessing the entered word. "Kelime Avı" means Word Hunt in English. The purpose is to use the specified word
+Achieving success based on the tips. As the main idea, it can be called a clone of the "Wordle" game.***
 
-How to Play?
+### How to Play?
 
     "Kelime Avı" is a word guessing game in which a five-letter word is randomly selected. The aim of the game is
      It is using a limited number of guesses to create a certain word. As a result of each prediction,
@@ -16,7 +16,7 @@ How to Play?
      Make your next prediction based on this feedback and repeat this process within your limited prediction allowance.
      When you create the word with your guesses, you win the game. Otherwise, the game ends when you run out of guesses.
     
-Tips and Strategies:
+### Tips and Strategies:
 
         To play the "Kelime Avı" game more effectively, you can consider the following tips and strategies:
 
@@ -28,14 +28,14 @@ Tips and Strategies:
      - Use the feedback from each guess to determine which letters you should include or exclude.
      Determine what you should not do.
 
-Key Benefit:
+### Key Benefit:
 
     "Kelime Avı" game is a fun brain game that helps develop vocabulary and logic skills.
      It increases players' language and thinking skills by guessing words and analyzing feedback.
      It also expands vocabulary and encourages strategic thinking. "Kelime Avı", fun
      In addition to being a game, it supports learning and developing intelligence.
         
-Programming Languages ​​I Use:
+### Programming Languages ​​I Use:
 
     Frontend:- HTML
              - CSS
@@ -44,12 +44,15 @@ Programming Languages ​​I Use:
     
     Backend: - C#    
 
+
+> The texts in the program are in Turkish.
+
 //tr
 # KelimeOyunu
-"Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi
-ipuçlarından yola çıkarak başarıya ulaşmaktır. Ana fikir olarak "Wordle" oyununun klonu olarak isimlendirilebilir
+***"Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi
+ipuçlarından yola çıkarak başarıya ulaşmaktır. Ana fikir olarak "Wordle" oyununun klonu olarak isimlendirilebilir.***
 
-Nasıl Oynanır?
+### Nasıl Oynanır?
 
 
     "Sözcük Avı" beş harfli bir kelimenin rastgele seçildiği bir kelime tahmin oyunudur. Oyunun amacı, 
@@ -63,7 +66,7 @@ Nasıl Oynanır?
     Bu geri bildirimlere dayanarak bir sonraki tahmininizi yapın ve bu işlemi sınırlı tahmin hakkınız içinde tekrarlayın.
     Tahminlerinizle kelimeyi oluşturduğunuzda, oyunu kazanırsınız. Aksi takdirde, tahmin hakkınız tükendiğinde oyun sona erer.
 
-İpucu ve Stratejiler:
+### İpucu ve Stratejiler:
 
     "Sözcük Avı" oyununu daha etkili bir şekilde oynamak için aşağıdaki ipuçları ve stratejileri düşünebilirsiniz :
 
@@ -75,14 +78,14 @@ Nasıl Oynanır?
     - Her tahmin sonucunda elde edilen geri bildirimleri kullanarak hangi harfleri dahil etmeniz veya dahil
     etmemeniz gerektiğini belirleyin.
 
-Temel Fayda:
+### Temel Fayda:
 
     "Sözcük Avı" oyunu, kelime bilgisi ve mantık yeteneklerini geliştirmeye yardımcı olan eğlenceli bir zeka oyunudur.
     Kelimeleri tahmin ederek ve geri bildirimleri analiz ederek oyuncuların dil ve düşünme becerilerini artırır.
     Aynı zamanda kelime dağarcığını genişletir ve stratejik düşünmeyi teşvik eder. "Sözcük Avı", eğlenceli
     bir oyun olmanın yanı sıra öğrenmeyi ve zekayı geliştirmeyi destekler.
     
-Kullanılan Diller:
+### Kullanılan Diller:
 
     Frontend:- HTML
              - CSS
@@ -91,9 +94,7 @@ Kullanılan Diller:
     
     Backend: - C#
 
-note: The texts in the program are in Turkish.
-
-Images of the Project:
+### Images of the Project:
 
 ![Ekran Görüntüsü (26)](https://github.com/omer-gulsoy/KelimeOyunu/assets/139320509/fa835151-a1fa-48de-9856-1e7ae76b8687)
 ![Ekran Görüntüsü (28)](https://github.com/omer-gulsoy/KelimeOyunu/assets/139320509/ad3d9219-5c98-45f8-9fce-3d8b5677bf9b)
