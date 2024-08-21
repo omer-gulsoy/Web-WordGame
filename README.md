@@ -1,5 +1,5 @@
-//en
-# WordGame
+# English
+## WordGame
 ***My word game project called "Kelime Avı" is a game based on guessing the entered word. "Kelime Avı" means Word Hunt in English. The purpose is to use the specified word
 Achieving success based on the tips. As the main idea, it can be called a clone of the "Wordle" game.***
 
@@ -47,8 +47,8 @@ Achieving success based on the tips. As the main idea, it can be called a clone 
 
 > The texts in the program are in Turkish.
 
-//tr
-# KelimeOyunu
+# Türkçe
+## KelimeOyunu
 ***"Sözcük Avı" isimli  kelime oyunu projem, girilen kelimenin tahminine dayanan bir oyundur. Amaç belirlenen kelimeyi
 ipuçlarından yola çıkarak başarıya ulaşmaktır. Ana fikir olarak "Wordle" oyununun klonu olarak isimlendirilebilir.***
 
